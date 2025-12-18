@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "retext": "^9.0.0",
-    "retext-smartypants": "^6.0.0",
+    "retext-smartypants": "github:quiple/retext-smartypants",
     "unified": "^11.0.4",
     "unist-util-visit": "^5.0.0"
   },
